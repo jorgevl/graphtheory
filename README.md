@@ -1,2 +1,2 @@
 # graphtheory
-Brief experiments in graphs
+Brief experiments with graphs
